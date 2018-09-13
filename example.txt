@@ -1,1 +1,3 @@
-Today was very wiered.
+Today was very wierd.
+This is another change to be tracked.
+
